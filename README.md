@@ -1,4 +1,4 @@
-#Brain Pay - Payment Gateway for Software Solutions
+##Brain Pay - Payment Gateway for Software Solutions
 
 ##Welcome to Brain Pay, the most reliable and secure payment gateway designed to streamline your business transactions. Whether you're running an online store, software service, or SaaS application, Brain Pay is here to ensure smooth and efficient payment processing for your customers.
 🚀 Key Features
