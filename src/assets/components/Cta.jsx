@@ -15,6 +15,7 @@ const Cta = () => {
                         </a>
                     </div>
                 </div>
+                {/* this section */}
             </section>
             <section className=" bg-blue-850 py-4">
                 <div className="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
